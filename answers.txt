@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: Git allows us to keep consistent track of changes to files, especially code. It's fast & efficient, large volumes of projects and enormous code can be handled easily. Multiple people 
+can develop in parallel using a common repository and separate branches, communicating changes via push and pull requests, and each developer
+has a copy of the project saved locally on their desktop or elsewhere (distributed system).
