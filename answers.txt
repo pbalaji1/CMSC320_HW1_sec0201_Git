@@ -20,3 +20,12 @@ that you the point at which you branched to move to another starting point. So f
 merging would be used if you made a branch for the purpose of developing one feature and wanted
 to merge it into the master. Rebasing would be used if another developer made a change, and you pulled 
 the current repository, and you rebase to base your changes from the current version from the repository.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward most to understanding the real world applications of data science, being a C.S major specializing in Machine Learning 
+where knowing data science is a must. I look forward to discovering more about the libaries and technologies we experiment with, pandas, and sqlite as of now, and more down the line. 
+I notice we have a chance to really explore concepts like N.L.P, feature engineering, and other Machine Learning oriented concepts, so 
+I want to see just how this class ties into Machine Learning, which I am just now beginning to understand at a high level. I 
+also look forward to do projects and experiments leveraging data science concepts, to appreciate the field
+on its own. 
