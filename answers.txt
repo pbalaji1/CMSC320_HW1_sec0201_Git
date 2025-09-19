@@ -1,0 +1,12 @@
+Q1: Why might we consider using Git?
+
+Answer: Git allows us to keep consistent track of changes to files, especially code. It's fast & efficient, large volumes of projects and enormous code can be handled easily. Multiple people 
+can develop in parallel using a common repository and separate branches, communicating changes via push and pull requests, and each developer
+has a copy of the project saved locally on their desktop or elsewhere (distributed system).
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to the field of marketing. Any application of marketing must collect and analyze
+large amounts of customer data, for instance purchase patterns at a retail store, social media feeds, etc. Using them 
+to formulate effective marketing strategies to reach a wider target audience. Data Science would be used in the interpretation 
+of that data to draw trends, trends would then be used to develop marketing measures, aiming to maximize results. 
