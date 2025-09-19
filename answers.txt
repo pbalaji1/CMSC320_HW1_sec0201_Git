@@ -10,3 +10,13 @@ Answer: Data science can be applied to the field of marketing. Any application o
 large amounts of customer data, for instance purchase patterns at a retail store, social media feeds, etc. Using them 
 to formulate effective marketing strategies to reach a wider target audience. Data Science would be used in the interpretation 
 of that data to draw trends, trends would then be used to develop marketing measures, aiming to maximize results. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging and rebasing differ in how they integrate changes from one branch
+into another branch. Merging takes all the changes you made in one branch and 
+merges them into another branch with one commit. Rebasing would mean 
+that you the point at which you branched to move to another starting point. So for instance,
+merging would be used if you made a branch for the purpose of developing one feature and wanted
+to merge it into the master. Rebasing would be used if another developer made a change, and you pulled 
+the current repository, and you rebase to base your changes from the current version from the repository.
